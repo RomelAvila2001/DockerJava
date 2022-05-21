@@ -1,4 +1,5 @@
 package ec.edu.ups.sd.dao;
+
 import java.util.List;
 
 import javax.ejb.Stateless;
